@@ -3,4 +3,4 @@
 	url = https://github.com/filecoin-project/filecoin-ffi.git
 [submodule "extra/fil-blst"]
 	path = extra/fil-blst
-	url = https://github.com/filecoin-project/fil-blst.git
+	url = https://github.com/filestar-project/fil-blst.git
